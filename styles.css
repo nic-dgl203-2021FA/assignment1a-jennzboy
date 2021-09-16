@@ -24,12 +24,16 @@ header {
 
 /* Projects
 ---------------------------------*/
-
+.projects {
+    background: #F7FFF7;
+}
 
 
 /* Work Experience
 ---------------------------------*/
-
+.work-experience {
+    background: #A1C6D7;
+}
 
 /* Education
 ---------------------------------*/
@@ -37,3 +41,6 @@ header {
 
 /* Contact Info
 ---------------------------------*/
+footer {
+    background: #343434;
+}
