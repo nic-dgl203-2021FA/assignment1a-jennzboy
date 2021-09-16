@@ -9,6 +9,9 @@ COLOR PALETTE
 
 /* Global styles
 ---------------------------------*/
+body {
+    color: #343434;
+}
 img {
     width: 300px;
 }
