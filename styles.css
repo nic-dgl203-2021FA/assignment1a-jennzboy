@@ -10,13 +10,14 @@ COLOR PALETTE
 /* Global styles
 ---------------------------------*/
 body {
-    color: #343434;
+  color: #343434;
 }
 img {
-    width: 300px;
+  width: 300px;
 }
 a:hover {
-    text-decoration: none;
+  text-decoration: none;
+}
 .content-wrap {
     width: 900px;
     margin: 0 auto;
@@ -25,34 +26,33 @@ a:hover {
 /* Profile
 ---------------------------------*/
 header {
-    background: #2F3061;
-    color: #F7FFF7;
+  background: #2f3061;
+  color: #f7fff7;
 }
 
 /* Projects
 ---------------------------------*/
 .projects {
-    background: #F7FFF7;
+  background: #f7fff7;
 }
 .projects a {
-    color: #2F3061;
+  color: #2f3061;
 }
 .projects .btn {
-    color: #F7FFF7;
-    background: #2F3061;
-    text-decoration: none;
-    padding: 8px;
-    border-radius: 4px;
+  color: #f7fff7;
+  background: #2f3061;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
 }
 .projects .btn:hover {
-    background: rgba(47, 48, 97, 80%);
+  background: rgba(47, 48, 97, 80%);
 }
-
 
 /* Work Experience
 ---------------------------------*/
 .work-experience {
-    background: #A1C6D7;
+  background: #a1c6d7;
 }
 
 /* Education
