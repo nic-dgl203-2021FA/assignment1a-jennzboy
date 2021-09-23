@@ -13,6 +13,7 @@ body {
   color: #343434;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
 }
 img {
   width: 300px;
@@ -20,8 +21,10 @@ img {
 a:hover {
   text-decoration: none;
 }
+  font-size: 100px;
 h2 {
     margin: 0;
+    font-size: 45px;
 }
 h1, h2 {
   font-family: 'Caveat', cursive;
