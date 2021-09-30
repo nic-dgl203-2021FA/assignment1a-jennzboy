@@ -93,10 +93,6 @@ header {
 .project-item {
   overflow: hidden;
 }
-.project-item img{
-  float: left;
-  margin: 20px;
-}
 
 /* Work Experience
 ---------------------------------*/
@@ -144,3 +140,9 @@ a {
 
 /* Responsive
 ---------------------------------*/
+@media screen and (min-width:750px){
+  .project-item img{
+    float: left;
+    margin: 20px;
+  }
+}
