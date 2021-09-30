@@ -147,4 +147,8 @@ a {
     grid-template-columns: 1fr 2fr;
     column-gap: 20px;
   }
+@media screen and (max-width:749px) {
+  h1 {
+    font-size: 75px;
+    line-height: 0.9;
 }
