@@ -151,4 +151,6 @@ a {
   h1 {
     font-size: 75px;
     line-height: 0.9;
+    margin-bottom: 20px;
+  }
 }
