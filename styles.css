@@ -160,4 +160,7 @@ a {
   h2 {
     line-height: 1;
   }
+  .contact-list a {
+    padding: 5px;
+  }
 }
