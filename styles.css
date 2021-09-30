@@ -153,4 +153,7 @@ a {
     line-height: 0.9;
     margin-bottom: 20px;
   }
+  h2 {
+    line-height: 1;
+  }
 }
