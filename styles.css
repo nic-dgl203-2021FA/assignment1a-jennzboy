@@ -113,6 +113,9 @@ footer {
   color: #f7fff7;
   text-align: center;
 }
+a {
+  color: #FFE66D;
+}
 .contact-list{
   list-style-type: none;
   padding: 0;
