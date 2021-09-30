@@ -115,6 +115,7 @@ header {
   background-image: url(images/joanna-kosinska-unsplash.jpg);
   background-size: cover;
   background-position: top right;
+  padding: 100px;
 }
 
 /* Contact Info
