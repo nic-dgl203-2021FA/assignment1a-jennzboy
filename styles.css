@@ -71,6 +71,8 @@ header {
   background-position: center;
   color: #211E1C;
 }
+.navbar {
+  float: left;
 
 /* Projects
 ---------------------------------*/
