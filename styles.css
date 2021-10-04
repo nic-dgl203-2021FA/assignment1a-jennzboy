@@ -73,10 +73,10 @@ header {
 /* Projects
 ---------------------------------*/
 .projects {
-  background: #f7fff7;
 }
 .projects a {
   color: #2f3061;
+  background: #F4F3EE;
 }
 .projects .btn {
   color: #f7fff7;
