@@ -83,6 +83,7 @@ header {
   display: inline-block;
   margin-top: 0;
   padding-right: 20px;
+  font-weight: 600;
 }
 .navbar a:link {
   text-decoration: none;
@@ -142,6 +143,7 @@ footer {
 }
 a {
   color: #211E1C;
+
 }
 .contact-list{
   list-style-type: none;
