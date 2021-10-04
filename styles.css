@@ -121,17 +121,6 @@ header h2 {
 
 /* CSS-only modal by Marko on Codepen https://codepen.io/denic/pen/ZEbKgPp?editors=1100 */
 /* If you like this, be sure to ❤️ it. */
-.wrapper {
-  height: 100vh;
-  /* This part is important for centering the content */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  /* End center */
-  background: -webkit-linear-gradient(to right, #834d9b, #d04ed6);
-  background: linear-gradient(to right, #834d9b, #d04ed6);
-}
-
 .wrapper a {
   display: inline-block;
   text-decoration: none;
