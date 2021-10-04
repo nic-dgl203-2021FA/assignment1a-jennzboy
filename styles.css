@@ -103,7 +103,7 @@ header {
 .education {
   background-image: url(images/gradienta-faXXUrNbH1c-unsplash.jpg);
   background-size: cover;
-  background-position: top right;
+  background-position: center;
   padding-bottom: 100px;
 }
 .education p {
