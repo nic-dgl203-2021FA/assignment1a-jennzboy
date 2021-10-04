@@ -92,6 +92,7 @@ header h2 {
 .dropdown {
   position: relative;
   float: left;
+  margin-left: 50px;
 }
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
