@@ -73,6 +73,10 @@ header {
 }
 .navbar {
   float: left;
+}
+.navbar ul {
+  margin: 0;
+}
 
 /* Projects
 ---------------------------------*/
