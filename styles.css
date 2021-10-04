@@ -68,6 +68,7 @@ h3 {
 header {
   background-image: url(images/gradienta-faXXUrNbH1c-unsplash.jpg);
   background-size: cover;
+  background-position: center;
   color: #211E1C;
 }
 
