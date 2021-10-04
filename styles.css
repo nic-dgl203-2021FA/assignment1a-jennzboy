@@ -78,6 +78,9 @@ header {
   margin: 0;
   padding-top: 20px;
 }
+.navbar li {
+  list-style-type: none;
+}
 }
 
 /* Projects
