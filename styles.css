@@ -67,7 +67,8 @@ h3 {
 /* Profile
 ---------------------------------*/
 header {
-  background: #DCA7A9;
+  background-image: url(images/gradienta-faXXUrNbH1c-unsplash.jpg);
+  background-size: cover;
   color: #211E1C;
 }
 
