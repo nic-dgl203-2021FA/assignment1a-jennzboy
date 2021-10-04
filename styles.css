@@ -78,7 +78,13 @@ header h2 {
   margin-top: 20px;
 }
 
-/*Dropdown menu code properties from w3schools https://www.w3schools.com/css/css_dropdowns.asp */
+/*Dropdown menu code properties from w3schools https://www.w3schools.com/css/css_dropdowns.asp 
+  - I positioned the dropdown menu on the left of the page
+  - I added margin space between the menu button and the page end
+  - I styled the menu button, and it's hover state
+  - I styled the menu links, and their hover and active states
+  - I 
+*/
 /* Style The Dropdown Button */
 .dropbtn {
   background-color: #63a088;
