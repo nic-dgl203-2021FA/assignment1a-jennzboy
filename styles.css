@@ -172,15 +172,6 @@ header h2 {
   padding: 1em 2em;
 }
 
-.modal__footer {
-  text-align: right;
-  a {
-    color: #585858;
-  }
-  i {
-    color: #d02d2c;
-  }
-}
 .modal__close {
   position: absolute;
   top: 10px;
