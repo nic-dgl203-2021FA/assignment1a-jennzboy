@@ -90,6 +90,9 @@ header {
 .navbar a:hover {
   color: hotpink;
 }
+.navbar a:active {
+  color: darkgreen;
+}
 
 /* Projects
 ---------------------------------*/
