@@ -123,7 +123,7 @@ header h2 {
 }
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: rgb(99, 160, 136, 0.7);
 }
 
 /* Projects
