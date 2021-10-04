@@ -119,7 +119,14 @@ header h2 {
   overflow: hidden;
 }
 
-/* CSS-only modal by Marko on Codepen https://codepen.io/denic/pen/ZEbKgPp?editors=1100 */
+/* CSS-only modal by Marko on Codepen https://codepen.io/denic/pen/ZEbKgPp?editors=1100 
+   - I removed the wrapper styles because I didn't want the button to be centered in another container
+   - I changed the modal link background color, text color and font family, and removed the text transform
+   - I changed the width of the modal content container and the background color
+   - I added modal image styles to center the image in the container
+   - I removed the modal footer styles 
+*/
+
 /* If you like this, be sure to ❤️ it. */
 .wrapper a {
   display: inline-block;
