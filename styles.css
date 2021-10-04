@@ -75,9 +75,10 @@ header {
 .projects {
   background: #F4F3EE;
 }
+
 .projects .btn {
-  color: #f7fff7;
-  background: #2f3061;
+  color: #F4F3EE;
+  background: #63A088;
   text-decoration: none;
   padding: 8px;
   border-radius: 4px;
