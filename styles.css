@@ -87,6 +87,9 @@ header {
 .navbar a:link {
   text-decoration: none;
 }
+.navbar a:hover {
+  color: hotpink;
+}
 
 /* Projects
 ---------------------------------*/
