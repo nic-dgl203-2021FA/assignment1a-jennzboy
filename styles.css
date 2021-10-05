@@ -106,7 +106,7 @@ header h2 {
   position: absolute;
   background-color: #f4f3ee;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 /* Links inside the dropdown */
@@ -171,7 +171,6 @@ header h2 {
   color: #f4f3ee;
   font-family: "Montserrat", sans-serif;
 }
-
 .modal {
   visibility: hidden;
   opacity: 0;
@@ -185,12 +184,10 @@ header h2 {
   justify-content: center;
   background: rgba(77, 77, 77, 0.7);
 }
-
 .modal:target {
   visibility: visible;
   opacity: 1;
 }
-
 .modal__content {
   border-radius: 4px;
   position: relative;
